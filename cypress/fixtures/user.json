@@ -1,0 +1,24 @@
+{
+
+  "email": "testmail@mail.com",
+  "password": "MaxPassword",
+  "grandmaname": "Helga",
+  "invalidemail": "invalidemail.com",
+  "country": "Ukraine",
+  "name": "Max Doe",
+  "mobile": "6825053737",
+  "zipcode": "01022",
+  "address": "Street",
+  "city": "Kyiv",
+  "state": "12412341234",
+  "cardNumber": "4111111111111111"
+
+
+
+
+
+
+
+
+
+}
